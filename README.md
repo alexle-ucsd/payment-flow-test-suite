@@ -43,5 +43,8 @@ pytest test_payment_flows.py -v
 - Payment domain: POS systems, chargebacks, refund workflows
 
 ## Author
-Alex Le — alexle2030@gmail.com
-linkedin.com/in/alexle-ucsd# payment-flow-test-suite
+Alex Le
+University of California, San Diego – International Business
+San Diego Mesa College – Java Programming
+
+GitHub: alexle-ucsd
